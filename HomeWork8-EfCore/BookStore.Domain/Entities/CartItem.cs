@@ -1,4 +1,7 @@
 ﻿using BookStore.Domain.Common;
+/// <summary>
+/// A single book line inside a cart, with the requested quantity.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

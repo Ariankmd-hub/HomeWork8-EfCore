@@ -1,4 +1,7 @@
 ﻿using BookStore.Domain.Common;
+/// <summary>
+/// Represents the shopping cart of a single user.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

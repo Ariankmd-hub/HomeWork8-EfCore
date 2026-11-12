@@ -1,5 +1,9 @@
 ﻿using BookStore.Domain.Common;
-
+/// <summary>
+/// A single book line inside an order.
+/// UnitPrice stores the price at purchase time, so later price changes
+/// do not affect old orders.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

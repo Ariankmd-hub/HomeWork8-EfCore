@@ -1,4 +1,7 @@
 ﻿using BookStore.Domain.Common;
+/// <summary>
+/// Represents a registered customer who can own a cart and place orders.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

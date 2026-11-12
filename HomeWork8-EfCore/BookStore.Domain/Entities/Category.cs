@@ -1,5 +1,9 @@
 ﻿using BookStore.Domain.Common;
 
+/// <summary>
+/// Represents a book category. One category can contain many books.
+/// </summary>
+
 namespace BookStore.Domain.Entities
 {
     public class Category : BaseEntity

@@ -1,4 +1,8 @@
 ﻿using BookStore.Domain.Common;
+/// <summary>
+/// Represents a book available in the store, including its price and stock.
+/// Each book belongs to exactly one category.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

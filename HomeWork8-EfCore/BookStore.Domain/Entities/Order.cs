@@ -1,4 +1,7 @@
 ﻿using BookStore.Domain.Common;
+/// <summary>
+/// Represents a placed order by a user. Contains the order items and total price.
+/// </summary>
 
 namespace BookStore.Domain.Entities
 {

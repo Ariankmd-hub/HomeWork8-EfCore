@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="BookStore.ConsoleApp/BookStore.ConsoleApp.csproj" Id="85da9831-4b6a-4d73-9c99-c5ffa49f214f" />
+  </Folder>
+  <Folder Name="/Src/Core/">
+    <Project Path="BookStore.Domain/BookStore.Domain.csproj" />
+  </Folder>
+</Solution>
